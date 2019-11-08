@@ -109,9 +109,13 @@ THE SOFTWARE.
 
 @angular/material/progress-spinner
 
+@angular/material/radio
+
 @angular/material/select
 
 @angular/material/sidenav
+
+@angular/material/slide-toggle
 
 @angular/material/snack-bar
 
